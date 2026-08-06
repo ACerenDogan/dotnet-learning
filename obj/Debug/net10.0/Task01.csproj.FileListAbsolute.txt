@@ -1,0 +1,14 @@
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/bin/Debug/net10.0/Task01
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/bin/Debug/net10.0/Task01.deps.json
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/bin/Debug/net10.0/Task01.runtimeconfig.json
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/bin/Debug/net10.0/Task01.dll
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/bin/Debug/net10.0/Task01.pdb
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.AssemblyInfoInputs.cache
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.AssemblyInfo.cs
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.csproj.CoreCompileInputs.cache
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.dll
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/refint/Task01.dll
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.pdb
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/Task01.genruntimeconfig.cache
+/Users/aysecerendogan/Desktop/MESKİ STAJ/dotnet-learning/Task01/obj/Debug/net10.0/ref/Task01.dll
