@@ -1,0 +1,42 @@
+[
+    {
+        "Id": 1,
+        "Ad": "Ceren",
+        "Soyad": "Dogan",
+        "Birim": "IT",
+        "Yas": 25,
+        "Aktif": true
+    },
+    {
+        "Id": 2,
+        "Ad": "Mehmet",
+        "Soyad": "Doğan",
+        "Birim": "HR",
+        "Yas": 30,
+        "Aktif": false
+    },
+    {
+        "Id": 3,
+        "Ad": "Canan",
+        "Soyad": "Yılmaz",
+        "Birim": "Finance",
+        "Yas": 28,
+        "Aktif": true
+    },
+    {
+        "Id": 4,
+        "Ad": "Ahmet",
+        "Soyad": "Kaya",
+        "Birim": "IT",
+        "Yas": 35,
+        "Aktif": true
+    },
+    {
+        "Id": 5,
+        "Ad": "Zeren",
+        "Soyad": "Doğan",
+        "Birim":"HR",
+        "Yas": 29,
+        "Aktif":false
+    }
+]
