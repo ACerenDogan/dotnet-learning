@@ -1,0 +1,24 @@
+@model Task04.Models.MetinAnalizModel
+
+<h1>METİN ANALİZİ</h1>
+
+<form method="post">
+    <label>Metin:</label>
+    <br>
+
+    <textarea asp-for="Metin" rows="4" cols="40"></textarea>
+    <br>
+
+    <button type="submit" class="btn btn-primary" mt-3">Analiz Et</button>
+</form>
+
+@if (!string.IsNullOrWhiteSpace(Model.Metin))
+{
+    <div class="alert alert-success mt-3">
+        
+    <p>Kelime Sayısı: @Model.KelimeSayisi</p>
+    <p>Karakter Sayısı: @Model.KarakterSayisi</p>
+    <p>En Uzun Kelime: @Model.EnUzunKelime</p>
+    <p>Alfabetik Kelimeler: @Model.AlfabetikKelimeler</p>
+    </div>
+}
